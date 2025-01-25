@@ -7,7 +7,8 @@
 
 ### 👩‍💻 **About Me**
 - 🎓 **Education:** Pursuing a Master of Computer Science (MCS) at [Rice University](https://www.rice.edu/)  
-- 🔐 **Open-Source Contributions:** Contributor to [Bitwarden](https://bitwarden.com/), a leading password management project  
+- 🔐 **Open-Source Contributions:** Contributor to [Bitwarden](https://bitwarden.com/), a leading password management project
+- 🌐 **Blog:** [My Blog](https://zilongxue.github.io/) is my space to share insights, projects 🛠️, and thoughts 💡 on software development and LLMs.
 - 🤖 **Interests:** Enthusiast in **LLMs** and AI agents, always exploring innovative possibilities  
 - 🌟 **Goal:** Build impactful AI agents and collaborate on exciting projects 🚀  
 
